@@ -1,6 +1,7 @@
 mod d01;
+mod d02;
 mod lib;
 
 fn main() {
-    d01::run();
+    d02::run();
 }
